@@ -49,25 +49,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-grey)
 ![Postman](https://img.shields.io/badge/Postman-orange)
 
----
 
-## 💼 Professional Experience
-
-### 🧑‍💻 Software Engineer Intern — Testline (2025–Present)
-- Built **20+ REST APIs** improving performance by **20%**
-- Integrated **Firebase notifications** increasing engagement by **15%**
-- Optimized React rendering performance by **20%**
-
-### ⚛️ React + TypeScript Developer — Areteminds
-- Built **20+ reusable components**
-- Implemented **role-based authentication for 1000+ users**
-- Reduced load time by **20%** and bugs by **30%**
-
-### 🔧 Backend Developer Intern — SnabbTech
-- Built secure APIs using **JWT & OAuth**
-- Automated API docs with Swagger (**40% faster onboarding**)
-
----
 
 ## 🚀 Featured Projects
 
